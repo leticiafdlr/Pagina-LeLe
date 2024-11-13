@@ -9,8 +9,8 @@ body{
     }
 
     header{
-        background-color: #424e61;
-        color: white;
+        background-color: #262c60;
+        color: #8492B8;
         width: 100%;
         padding: 20px;
 
@@ -62,7 +62,7 @@ body{
     }
 
     .estudante{
-        background-image: background-color(#FFF6E9);
+        background-image: background-color(#8492B8);
         padding: 24px 0;
     }
 
