@@ -62,7 +62,7 @@ body{
     }
 
     .estudante{
-        background-image: background-color(#8492B8);
+        background-image: background-color(#586485);
         padding: 24px 0;
     }
 
@@ -102,6 +102,6 @@ body{
         
     }
     .link{
-        color: #ffffff;
+        color: #525892;
         text-decoration: none;
     }
